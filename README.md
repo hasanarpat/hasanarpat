@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
 
-<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/hasan-arpat-4ba6a3218/">on Linkedin</a></h3>
+<h3 align="left">Connect with me :<a href="https://www.linkedin.com/in/hasan-arpat-4ba6a3218/">on Linkedin</a></h3>
 <p align="left">
 </p>
 
