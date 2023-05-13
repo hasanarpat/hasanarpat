@@ -2,7 +2,7 @@
 <h3 align="center">A autodidactic learner and developer.</h3>
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
-Libraries and tools that i use:
+<h3>Libraries and tools that i use:</h3>
 <ul>
   <li>React Router</li>
   <li>NextJS</li>
