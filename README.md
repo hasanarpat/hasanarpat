@@ -2,7 +2,15 @@
 <h3 align="center">A autodidactic learner and developer.</h3>
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
-
+- Libraries and tools that i use:
+<ul>
+  <li>React Router</li>
+  <li>NextJS</li>
+  <li>Styled Components</li>
+  <li>Tailwind</li>
+  <li>Firebase Auth</li>
+  <li>ThreeJS</li>
+</ul>
 <h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/hasan-arpat-4ba6a3218/"> on Linkedin</a></h3>
 <p align="left">
 </p>
