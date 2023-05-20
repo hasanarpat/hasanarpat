@@ -7,6 +7,8 @@
   <li>React Router</li>
   <li>NextJS</li>
   <li>Styled Components</li>
+  <li>SASS-SCSS</li>
+  <li>MUI</li>
   <li>Tailwind</li>
   <li>Firebase Auth</li>
   <li>ThreeJS</li>
