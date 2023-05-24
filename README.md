@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hasan.</h1>
-<h3 align="center">A autodidactic learner and developer.</h3>
+<h3 align="center">An autodidactic learner and developer.</h3>
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
 <h3>Libraries and tools that i use:</h3>
