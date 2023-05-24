@@ -10,7 +10,7 @@
   <li>SASS-SCSS</li>
   <li>MUI</li>
   <li>Tailwind</li>
-  <li>Firebase Auth</li>
+  <li>Firebase</li>
   <li>ThreeJS</li>
 </ul>
 <h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/hasan-arpat-4ba6a3218/"> on Linkedin</a></h3>
