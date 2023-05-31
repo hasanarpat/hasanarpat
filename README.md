@@ -5,7 +5,6 @@
 <h3>Libraries and tools that i use:</h3>
 <ul>
   <li>React Router</li>
-  <li>NextJS</li>
   <li>Styled Components</li>
   <li>SASS-SCSS</li>
   <li>MUI</li>
