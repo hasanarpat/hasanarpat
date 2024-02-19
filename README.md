@@ -1,20 +1,19 @@
 <h1 align="center">Hi, I'm Hasan.</h1>
 <h3 align="center">An autodidactic learner and developer.</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently using **NextJS** and **Typescript** on my projects.
 <h3>Technologies that i use in my projects:</h3>
 <ul>
   <li>NextJS</li>
-  <li>React Router</li>
-  <li>Styled Components</li>
+  <li>MongoDB</li>
   <li>SASS-SCSS</li>
-  <li>MUI</li>
   <li>Tailwind</li>
   <li>Firebase</li>
+  <li>Next-Auth</li>
+  <li>MUI</li>
   <li>ThreeJS</li>
-  <li>MongoDB</li>
 </ul>
-<h3 align="left">Contact me:<a href="https://www.linkedin.com/in/hasan-arpat-4ba6a3218/"> on Linkedin</a></h3>
+<h3 align="left">Contact me:<a href="https://www.linkedin.com/in/hasan-arpat/"> on Linkedin</a></h3>
 <p align="left">
 </p>
 
