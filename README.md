@@ -15,6 +15,7 @@
 </ul>
 <h3 align="left">Contact me:<a href="https://www.linkedin.com/in/hasan-arpat/"> on Linkedin</a></h3>
 <p align="left">
+  You can reach to my <a href="https://hasanarpat.github.io/" target="_blank">blog</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
