@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hasan.</h1>
 <h3 align="center">An autodidactic learner and developer.</h3>
 
-- 🌱 I’m currently using **NextJS** and **Typescript** on my projects.
+- 🌱 I’m currently learning **NextJS** and **Typescript** and use them in my projects.
 <h3>Technologies that i use in my projects:</h3>
 <ul>
   <li>NextJS</li>
