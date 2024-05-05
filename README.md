@@ -5,12 +5,14 @@
 <h3>Technologies that i use in my projects:</h3>
 <ul>
   <li>NextJS</li>
-  <li>MongoDB</li>
+  <li>Vite</li>
   <li>SASS-SCSS</li>
   <li>Tailwind</li>
+  <li>MongoDB</li>
   <li>Firebase</li>
   <li>Next-Auth</li>
   <li>MUI</li>
+  <li>Shadcn</li>
   <li>ThreeJS</li>
 </ul>
 <h3 align="left">Contact me:<a href="https://www.linkedin.com/in/hasan-arpat/"> on Linkedin</a></h3>
