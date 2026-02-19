@@ -20,10 +20,9 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanarpat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Hasan's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanarpat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Hasan's Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanarpat&theme=tokyonight&hide_border=true" alt="Hasan's Streak" height="180" />
 </p>
+
 ### 🛠 Tech Stack
 
 | Category | Tools & Technologies |
