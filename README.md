@@ -65,6 +65,3 @@
 <a href="https://hasanarpat.github.io/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/000000/external-jekyll-a-blog-aware-static-site-generator-in-ruby-logo-duo-tal-revivo.png" alt="blog" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasanarpat/hasanarpat/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
