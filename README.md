@@ -25,8 +25,9 @@
 
 ### 📊 GitHub Dashboard
 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanarpat&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanarpat&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Hasan's Trophies" />
 </p>
 
 <p align="center">
