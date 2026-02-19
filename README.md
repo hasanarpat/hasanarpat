@@ -22,6 +22,22 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanarpat&theme=tokyonight&hide_border=true" alt="Hasan's Streak" height="180" />
 </p>
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanarpat&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanarpat&theme=tokyonight&hide_border=true" height="180" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanarpat&theme=tokyo-night&area=true&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasanarpat&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="views" />
+</p>
+
 
 ### 🛠 Tech Stack
 
