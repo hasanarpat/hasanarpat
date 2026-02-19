@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanarpat&theme=tokyonight&hide_border=true" alt="Hasan's Streak" height="180" />
 </p>
+
 ### 📊 GitHub Dashboard
 
 <p align="center">
@@ -29,8 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanarpat&theme=tokyonight&hide_border=true" height="180" />
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanarpat&theme=tokyo-night&area=true&hide_border=true" height="180" />
 </p>
 
