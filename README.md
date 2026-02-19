@@ -34,10 +34,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanarpat&theme=tokyo-night&area=true&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasanarpat&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="views" />
-</p>
-
 
 ### 🛠 Tech Stack
 
