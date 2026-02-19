@@ -1,30 +1,39 @@
-<h1 align="center">Hi, I'm Hasan.</h1>
-<h3 align="center">An autodidactic learner and developer.</h3>
+<div align="center">
+  <h1>Hi, I'm Hasan <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"></h1>
+  <h3>An autodidactic learner and full-stack developer.</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/hasan-arpat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://portfolio-2024-jet-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://hasanarpat.github.io/"><img src="https://img.shields.io/badge/Blog-4CAF50?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **NextJS** and **Typescript** and use them in my projects.
-<h3>Technologies that i use in my projects:</h3>
-<ul>
-  <li>NextJS</li>
-  <li>Vite</li>
-  <li>SASS-SCSS</li>
-  <li>Tailwind</li>
-  <li>MongoDB</li>
-  <li>Firebase</li>
-  <li>Next-Auth</li>
-  <li>MUI</li>
-  <li>Shadcn</li>
-  <li>ThreeJS</li>
-</ul>
-<h3 align="left">Contact me:<a href="https://www.linkedin.com/in/hasan-arpat/"> on Linkedin</a></h3>
-<h3 align="left">
-  You can reach to my <a href="https://portfolio-2024-jet-two.vercel.app/" target="_blank">portfolio</a>
-</h3>
-<h3 align="left">
-  You can reach to my <a href="https://hasanarpat.github.io/" target="_blank">blog</a>
-</h3>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 💫 About Me
+- 🌱 I’m currently deep diving into **Next.js** and **TypeScript**.
+- 🚀 Passionate about building interactive 3D experiences with **Three.js**.
+- 🎨 Focused on creating clean UIs using **Tailwind CSS**, **Shadcn/UI**, and **MUI**.
+- ✍️ Writing about my journey on my personal blog.
+
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) |
+| **Backend/DB** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
+| **Others** | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanarpat&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanarpat&layout=compact&theme=radical" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hasanarpat&label=Profile%20views&color=0e75b6&style=flat" alt="hasanarpat" />
 </p>
