@@ -61,7 +61,7 @@
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/hasan-arpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-arpat" height="30" width="40" /></a>
-<a href="https://portfolio-2024-jet-two.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-portfolio-online-marketing-flatart-icons-flat-flatarticons.png" alt="portfolio" height="30" width="40" /></a>
-<a href="https://hasanarpat.github.io/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/000000/external-jekyll-a-blog-aware-static-site-generator-in-ruby-logo-duo-tal-revivo.png" alt="blog" height="30" width="40" /></a>
+<a href="https://portfolio-2024-jet-two.vercel.app/" target="blank"><img align="center" src="https://hasanarpat.github.io/assets/favicon/favicon-32x32.png" alt="portfolio" height="30" width="40" /></a>
+<a href="https://hasanarpat.github.io/" target="blank"><img align="center" src="https://hasanarpat.github.io/assets/favicon/favicon-32x32.png" alt="blog" height="30" width="40" /></a>
 </p>
 
