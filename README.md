@@ -17,14 +17,13 @@
 - 🎨 Focused on crafting clean UIs with **Tailwind CSS**, **Shadcn/UI**, and **MUI**.
 - ✍️ I enjoy sharing my learning journey and technical insights on my personal blog.
 
-### 📊 GitHub Statistics (via anuraghazra/github-readme-stats)
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanarpat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hasan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanarpat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Hasan's GitHub Stats" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanarpat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Hasan's Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanarpat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Hasan's Top Languages" height="180" />
 </p>
-
 ### 🛠 Tech Stack
 
 | Category | Tools & Technologies |
